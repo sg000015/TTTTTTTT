@@ -38,9 +38,5 @@
   {
     "key": "BN42",
     "name": "조대범"
-  },
-  {
-    "key": "Test",
-    "name": "Test"
   }
 ]
